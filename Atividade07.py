@@ -1,2 +1,0 @@
-#Escreva um programa que pergunte "Qual u.c você mais gosta?" e na proxima linha a resposta  "E goste de progamação de aplicativos". Desenvolva usando apenas uma linha de código.
-print("Qual a u.c que você mais gosta?\nEu gosto de progamação de aplicativos")
